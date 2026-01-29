@@ -12,6 +12,10 @@ It includes histogram exploration (linear and log scale), peak detection, and a 
 - SciPy (peak finding + curve fitting)
 - Matplotlib
 
+## 📄 Report
+A detailed analysis and discussion of the results is available in `report/analysis_report.pdf`.
+
+
 ## 📊 Methodology
 - Compute invariant mass:  
   \( m = \sqrt{E^2 - (p_x^2 + p_y^2 + p_z^2)} \)
